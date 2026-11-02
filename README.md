@@ -64,7 +64,7 @@ Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas
 
 ---
 
-## 🚀 Filosofia
+## 🧘🏽 Filosofia
 
 > _"Desenvolver um código não se trata apenas de resolver problemas.
 > Trata-se de construir soluções que sejam escaláveis, duradouras e que gerem valor real."_
