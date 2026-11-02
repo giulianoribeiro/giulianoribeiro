@@ -58,8 +58,8 @@ Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=giulianoribeiro&show_icons=true&theme=tokyonight&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianoribeiroa&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giulianoribeiro&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giulianoribeiro&theme=tokyonight" />
 </p>
 
 ---
