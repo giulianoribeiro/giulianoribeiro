@@ -60,8 +60,8 @@ Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas
 
 <div align="left">
   <a href="https://github.com/giulianoribeiro">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=onedark">
-    <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=react&count_private=true">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=yeblu">
+      <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=onedark&count_private=true">
   </a>
 </div>
 ---
