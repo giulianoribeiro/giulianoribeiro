@@ -14,6 +14,7 @@ Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas
   <a href="https://github.com/giulianoribeiro">
     <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" />
     </a>
+  
   <a href="https://www.linkedin.com/in/giuliano-ribeiro-de-souza-553b21434/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
