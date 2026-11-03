@@ -60,7 +60,7 @@ Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas
 
 <div align="left">
   <a href="https://github.com/giulianoribeiro">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=aura_dark">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=onedark">
     <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=react&count_private=true">
   </a>
 </div>
@@ -73,6 +73,8 @@ Tenho um foco em **arquitetura, performance, código limpo e soluções voltadas
 
 ---
 
-⭐ Esteve GitHub foi criado para visualização do meu aprendizado e acompanhar o desenvolvimento do meu trabalho, considere dar uma estrela em um repositório
+Este portfólio reúne projetos e atividades desenvolvidos ao longo da minha trajetória acadêmica e profissional, evidenciando minha evolução contínua, o aprimoramento das minhas competências técnicas e meu compromisso com o aprendizado em Engenharia de Software.
+
+Convido você a explorar meus repositórios, acompanhar o desenvolvimento dos meus projetos e compartilhar sugestões e contribuições. Caso algum projeto seja relevante para você, considere deixar uma ⭐ estrela no repositório como forma de reconhecimento e incentivo.
 
 🤝 Sempre aberto a colaborações, parcerias e ideias bacanas
