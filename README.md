@@ -22,15 +22,19 @@
 
 ---
 
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
-  Confira meu portfólio
-   
-<p align="left">
-  <a href="https://github.com/giulianoribeiro">
-    <img src="https://img.shields.io/badge/GitHub-GIULIANORIBEIRO-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</p>
+<h2 style="display: flex; align-items: center; justify-content: flex-start; gap: 20px; margin: 0; padding: 0 10px; white-space: nowrap;">
+  <!-- Bloco 1: Título -->
+  <span style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="28" height="28" style="vertical-align: middle;" />
+    <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px; vertical-align: middle;">Confira meu portfólio</span>
+  </span>
+
+  <!-- Bloco 2: GitHub e Nome -->
+  <span style="display: inline-flex; align-items: center; gap: 15px;">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Ícone GitHub" height="28" width="28" style="vertical-align: middle;" />
+    <span style="color: #ffffff; font-family: sans-serif; font-weight: bold; font-size: 24px; letter-spacing: 0.5px; vertical-align: middle;">GiulianoRibeiro</span>
+  </span>
+  </p>
 
  EM CONSTRUÇÃO
 
