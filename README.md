@@ -40,10 +40,14 @@
 
 ## 📊 Estatisticas GitHub
 
-<div align="left">
+<div style="display: flex; gap: 32px; flex-wrap: wrap; align-items: flex-start;">
+  <!-- Gráfico 1: Estatísticas -->
   <a href="https://github.com/giulianoribeiro">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=yeblu">
-       </a>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=giulianoribeiro&rank_icon=github&theme=yeblu" alt="GitHub Stats" />
+  </a>
+  
+  <!-- Gráfico 2: Linguagens -->
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=onedark&count_private=true" alt="Top Languages" />
 </div>
 
 ---
@@ -89,21 +93,11 @@ EM CONSTRUÇÃO
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-32CD32?style=for-the-badge&logo=postgresql&logoColor=black)
-![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-DAA520?style=for-the-badge&logo=microsoft-sql-server&logoColor=White)
+<img src="https://skillicons.dev/icons?i=python,java,postgres&theme=dark" />
 
 ### DevOps & Ferramentas
 
-![Visual Code](https://img.shields.io/badge/Visual_Studio_Code-191970?style=for-the-badge&logo=visual%20studio%20code&logoColor=White)
-![Docker](https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-B0C4DE?style=for-the-badge&logo=git)
-
----
-
-<div align="left">
-        <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=giulianoribeiro&layout=compact&langs_count=8&theme=onedark&count_private=true">
+<img src="https://skillicons.dev/icons?i=vscode,docker,git,github&theme=dark" />
 
 ---
 
